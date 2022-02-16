@@ -1,4 +1,4 @@
-# Tip Calculator
+# Quiz App
 
 ## *Gregory L*
 
