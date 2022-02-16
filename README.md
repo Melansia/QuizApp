@@ -2,7 +2,7 @@
 
 ## *Gregory L*
 
-**Quiz App** A very simple quiz app. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
+**Quiz App** A very simple quiz app. The app have 10 quiz questions, it uses country flags, user must choose the correct answer for the questions..
 
 Time spent: **12** hours spent in total
 
