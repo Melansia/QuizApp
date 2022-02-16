@@ -21,7 +21,7 @@ The following **extensions** are implemented:
 * [x] The answer options are now lights up with a colour which indicates in if answer is correct(green) or incorrect(red)
 * [x] Added custom result screen with an image
 * [x] Show quiz progress in numbers next to the progress bar
-* [] UI fixes
+* [ ] UI fixes
 
 
 ## Video Walkthrough
