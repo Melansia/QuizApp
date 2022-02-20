@@ -4,24 +4,24 @@
 
 **Quiz App** A very simple quiz app. The app have 10 quiz questions, it uses country flags, user must choose the correct answer for the questions..
 
-Time spent: **12** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Functionality
 
 The following **required** functionality is completed:
 
-* [x] User can enter his name
-* [x] Start of a quiz
-* [x] User can view correct answer
-* [x] The progress bar which is updated immediately when questions when submitted next.
+* [X] User can enter his name
+* [X] Start of a quiz
+* [X] User can view correct answer
+* [X] The progress bar which is updated immediately when questions when submitted next.
 * [X] Outcomes screen at end of quiz with the result and user name
 
 The following **extensions** are implemented:
 
-* [x] The answer options are now lights up with a colour which indicates in if answer is correct(green) or incorrect(red)
-* [x] Added custom result screen with an image
-* [x] Show quiz progress in numbers next to the progress bar
-* [ ] UI fixes
+* [X] The answer options are now lights up with a colour which indicates in if answer is correct(green) or incorrect(red)
+* [X] Added custom result screen with an image
+* [X] Show quiz progress in numbers next to the progress bar
+* [X] UI fixes
 
 
 ## Video Walkthrough
